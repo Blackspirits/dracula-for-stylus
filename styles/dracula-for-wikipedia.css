@@ -12,7 +12,8 @@
 }
 ==/UserStyle== */
 
-@-moz-document domain("wikipedia.org") {
+@-moz-document domain("wikipedia.org"),
+               domain("wikiwand.com") {
 
     :root {
         --color-dark-background-1: #525568;
